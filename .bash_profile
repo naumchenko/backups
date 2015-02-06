@@ -1,5 +1,5 @@
 # git command autocompletion script
-source .scripts_bash/git-completion.bash
+source .scripts_bash/git-completion.sh
 source .scripts_bash/shell_wrapers.sh
 
 alias tailf='tailf -f'

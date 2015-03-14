@@ -49,5 +49,5 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 
 
-alias vagd='vagrant destroy'
-alias vagu='vagrant up'
+alias v.d='vagrant destroy'
+alias v.u='vagrant up'

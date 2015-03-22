@@ -18,8 +18,6 @@ _getdomainnameonly(){
         # show domain name only
         echo "$f"
 }
-
-
 ping(){
         local array=( $@ )              # get all args in an array
         local len=${#array[@]}          # find the length of an array
@@ -31,7 +29,6 @@ ping(){
         # pass args and host
         $_ping $args $c
 }
-
 host(){
         local array=( $@ )
         local len=${#array[@]}

@@ -1,3 +1,0 @@
-# scripts
-
-montreal.zsh-theme
